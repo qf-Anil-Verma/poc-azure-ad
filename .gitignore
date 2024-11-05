@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Azure-AD-POC/.vs/Azure-AD-POC
+/Azure-AD-POC/obj
